@@ -3,6 +3,7 @@ module github.com/p-doukas/go-session-auth
 go 1.25.7
 
 require (
+	github.com/go-mail/mail/v2 v2.3.0
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/pressly/goose/v3 v3.27.1
 )
@@ -21,4 +22,6 @@ require (
 	golang.org/x/crypto v0.50.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/text v0.36.0 // indirect
+	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
+	gopkg.in/mail.v2 v2.3.1 // indirect
 )
