@@ -5,6 +5,7 @@ go 1.25.7
 require (
 	github.com/go-mail/mail/v2 v2.3.0
 	github.com/jackc/pgx/v4 v4.18.3
+	github.com/joho/godotenv v1.5.1
 	github.com/pressly/goose/v3 v3.27.1
 )
 
