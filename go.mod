@@ -3,6 +3,7 @@ module github.com/p-doukas/go-session-auth
 go 1.25.7
 
 require (
+	github.com/go-chi/chi/v5 v5.2.5
 	github.com/go-mail/mail/v2 v2.3.0
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/joho/godotenv v1.5.1
